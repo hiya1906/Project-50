@@ -1,0 +1,17 @@
+body{
+    background-color: #40826d;
+}
+
+.intro{
+    border: solid;
+    border-color: rgb(50, 150, 108);
+}
+
+a:link, a:visited{
+    color: black;
+}
+
+.tutorials{
+    border: solid;
+    border-color: rgb(50, 150, 108);
+}
